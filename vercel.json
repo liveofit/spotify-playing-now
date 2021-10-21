@@ -1,0 +1,8 @@
+ {
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/liveofit/spotify-playing-now"
+    }
+  ]
+}
